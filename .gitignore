@@ -1,0 +1,6 @@
+# Server:
+/Server/node_modules
+/Server/vendor
+/Server/.env
+/Server/.idea
+/Server/.idea/
